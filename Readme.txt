@@ -1,21 +1,22 @@
 				 ===============================================================
-			                 Consigne d'integration du projet
+			                 Project integration guidelines
 				===============================================================
 
  
- il s'agit d'une application mobile sous android, écrite en Java et construite à l'aide de l'API Google Map,
- elle permet aux utilisateurs de se localiser des emplacements et d’évaluer les lieux qu’ils visitent avec
- une description enregistré dans la base de données en ligne(SQLite database), 
- elle dispose d'une base de données PHP / MySQL en ligne.
+it's an Android mobile application, written in Java and built using the Google Map API,
+ it enables users to locate and evaluate the places they visit with
+ a description recorded in the online database (SQLite database), 
+ it features an online PHP / MySQL database.
 
 			              
-* Voiçi le fichier contient les consignes d'integration du projet : 
+* Here's the file containing the project integration instructions: 
+
 						        
 
   ------------------------------------------------------------------------------------------------------------------------------
 	
   
-    Outils et version : 
+    Tools and version : 
 
          1) Library  :  gson-2.8.6
  
